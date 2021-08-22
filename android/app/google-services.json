@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "121658827185",
+    "project_id": "air-chat-325ae",
+    "storage_bucket": "air-chat-325ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121658827185:android:3e16e84c1403d7549e1d90",
+        "android_client_info": {
+          "package_name": "com.kavish.air_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121658827185-nr2569oji56kfp6londpgi3jglu365jq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABcMMsFB-fPqYwE8HrN3uhcWusfw4EGvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121658827185-nr2569oji56kfp6londpgi3jglu365jq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
